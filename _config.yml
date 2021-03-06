@@ -1,4 +1,4 @@
-baseurl: 'http://aihearing.github.com'
+baseurl: 'aihearing.github.io'
 exclude: ['README.md']
 permalink: pretty
 title: 'Jekyll Serif'
