@@ -7,7 +7,7 @@ google_analytics_id: ""
 homepage:
   show_call_box: true
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "AI Hearing"
   desktop: "AI Hearing"
   desktop_height: "36px"
 footer:
