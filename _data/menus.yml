@@ -23,5 +23,5 @@ footer:
     url: "/privacy/"
     weight: 3
   - name: "Terms"
-    url: "/Terms/"
+    url: "/terms/"
     weight: 4
