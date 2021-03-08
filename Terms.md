@@ -1,16 +1,17 @@
 ---
 title: 'Terms Of Use'
-date: 2021-02-22T17:01:34+07:00
+date: 2021-02-23T17:01:34+07:00
 layout: page
 bodyClass: page-about
 ---
 
 # Terms Of Use 
+
 ## 1 GENERAL INFORMATION
 
 ### 1.1 AIHearing™ PRODUCTS
 
-These Terms & Conditions (these “Terms”) contain the terms and conditions on which we provide products, information or services available and listed on AIHearing.github.io (the “Website”), through our applications (the “Apps”) or via other delivery methods to you (the Website and such products, information, services and the Apps are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of AIHearing). Please read these terms and conditions, carefully before ordering any Products from the Website or third party App stores (e.g. the Apple App Store, the Android Play Store, Amazon, etc.). The terms “AIHearing™,” “us” or “we” refers to ReApex Corp., a Canada corporation. The term “Device” refers to the device which is used to access the Products including, but not limited to computers, smartphones, and tablets. The term “you” refers to the user of the Products. When you order (“Order”) any Products, or otherwise use or access the Products, you agree to be bound by these Terms and all applicable laws, rules and regulations. You may also be asked to click “I accept” or “I agree” at the appropriate place prior to your purchase of access to the Products. At such time, if you do not click “I accept” or “I agree”, you may not be able to complete such purchase or gain such access. By using the Products, you indicate that you accept these Terms and that you agree to abide by them. If you do not agree to these Terms, please refrain from using the Products. 
+These Terms and Conditions (these “Terms”) contain the terms and conditions on which we provide products, information or services available and listed on AIHearing.github.io (the “Website”), through our applications (the “Apps”) or via other delivery methods to you (the Website and such products, information, services and the Apps are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of AIHearing). Please read these terms and conditions, carefully before ordering any Products from the Website or third party App stores (e.g. the Apple App Store, the Android Play Store, Amazon, etc.). The terms “AIHearing™,” “us” or “we” refers to ReApex Corp., a Canada corporation. The term “Device” refers to the device which is used to access the Products including, but not limited to computers, smartphones, and tablets. The term “you” refers to the user of the Products. When you order (“Order”) any Products, or otherwise use or access the Products, you agree to be bound by these Terms and all applicable laws, rules and regulations. You may also be asked to click “I accept” or “I agree” at the appropriate place prior to your purchase of access to the Products. At such time, if you do not click “I accept” or “I agree”, you may not be able to complete such purchase or gain such access. By using the Products, you indicate that you accept these Terms and that you agree to abide by them. If you do not agree to these Terms, please refrain from using the Products. 
 
 Our contact email address is aiHearing@HYPech.com. All correspondence to AIHearing™ including any queries you may have regarding your use of the Products or these Terms should be sent to this contact email address.
 
