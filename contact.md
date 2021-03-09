@@ -4,13 +4,8 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+We value your questions, comments, and feedback. To contact the National Hearing Test support staff, please use one of the methods available on this page.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+| Twitter   | [AIHearing33](https://twitter.com/aihearing33)   |
+| Facebook   | [AIHearing](https://www.facebook.com/aihearing/) |
+| Wechat | ![avatar](images/social/wechat150.jpg) |
